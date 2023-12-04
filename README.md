@@ -1,5 +1,5 @@
 ##Bogdan
-<img width="612" alt="Screenshot 2023-12-03 at 8 15 10 PM" src="https://github.com/bogdanoff149/aleo-deploy-workshop/assets/152825719/fc4e454f-8bc0-48b1-9425-86e18b6e0685">
+<img width="610" alt="bog" src="https://github.com/bogdanoff149/aleo-deploy-workshop/assets/152825719/a2e407f0-96a5-4285-b715-b5418917d372">
 
 # Aleo Deployment Demo
 
