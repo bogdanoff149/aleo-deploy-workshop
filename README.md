@@ -1,3 +1,6 @@
+##Bogdan
+<img width="612" alt="Screenshot 2023-12-03 at 8 15 10 PM" src="https://github.com/bogdanoff149/aleo-deploy-workshop/assets/152825719/fc4e454f-8bc0-48b1-9425-86e18b6e0685">
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
